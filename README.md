@@ -2,7 +2,7 @@
 
 # Pace Pulse
 
-This is a comprehensive fitness tracking application for running activities, built with ArkTS and ArkUI with advanced sensor integration and real-time health monitoring features, designed for HarmonyOS NEXT wearable devices. It leverages SensorKit for pedometer and heart rate monitoring with optimized circular screen support with lottie animations.
+This is a comprehensive fitness tracking application for running activities, built with ArkTS and ArkUI with advanced sensor integration and real-time health monitoring features, designed for HarmonyOS wearable devices. It leverages SensorKit for pedometer and heart rate monitoring with optimized circular screen support with lottie animations.
 
 # Preview
 
